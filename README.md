@@ -79,3 +79,6 @@ int main() {
 ### Summary
 This code performs a Breadth-First Search on a simple undirected graph starting from a specified node. It prints out the nodes in the order they are visited, demonstrating the BFS traversal pattern, which explores neighbors level by level.
 
+
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
